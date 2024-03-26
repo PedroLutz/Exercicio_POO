@@ -1,4 +1,4 @@
-package Temperatura;
+package Exercicios_POO.Temperatura;
 
 public class Temperatura {
     public double celsiusParaFahrenheit(double temp){

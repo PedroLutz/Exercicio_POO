@@ -1,4 +1,4 @@
-package Relogio;
+package Exercicios_POO.Relogio;
 
 public class Relogio {
     public int hora = 0;

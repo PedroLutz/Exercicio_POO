@@ -1,4 +1,4 @@
-package Temperatura;
+package Exercicios_POO.Temperatura;
 
 public class Main {
     public static void main(String[] args) {
